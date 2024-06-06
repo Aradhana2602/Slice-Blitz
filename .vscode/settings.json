@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "unity-fruit-ninja-tutorial-main.sln"
+    "dotnet.defaultSolution": "Slice-Blitz.sln"
 }
